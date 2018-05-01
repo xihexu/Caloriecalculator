@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calorie calculator</string>
+    <string-array name="age">
+        <item>selectAgeRange</item>
+        <item>19 to 30</item>
+        <item>31 to 50</item>
+        <item>50 and above</item>
+    </string-array>
+</resources>
